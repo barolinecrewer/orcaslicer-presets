@@ -1,0 +1,19 @@
+{
+    "type": "process",
+    "name": "0.16mm Quality @P1S",
+    "inherits": "0.16mm Optimal @BBL X1C",
+    "from": "User",
+    "print_settings_id": "0.16mm Quality @P1S",
+    "outer_wall_speed": ["120", "120"],
+    "outer_wall_acceleration": ["3000", "3000"],
+    "top_surface_speed": ["150", "150"],
+    "top_surface_acceleration": ["1500", "1500"],
+    "wall_generator": "arachne",
+    "seam_position": "aligned",
+    "seam_slope_type": "external",
+    "seam_slope_conditional": "1",
+    "seam_placement_away_from_overhangs": "1",
+    "only_one_wall_top": "1",
+    "top_shell_layers": "5",
+    "ironing_type": "no ironing"
+}
