@@ -13,6 +13,8 @@ General-purpose profile for visual parts: cases, covers, decorative
 models, anything where surface finish matters more than raw strength.
 
 - 120 mm/s outer walls at 3000 mm/s², 150 mm/s top surfaces at 1500 mm/s²
+- Slower first layer (30 mm/s walls, 60 mm/s solid infill) so first-layer
+  lines press into textured PEI instead of dragging on large flat bottoms
 - Arachne wall generator, aligned external sloped seams placed away from
   overhangs
 - Single top wall over 5 top shell layers for clean surfaces
