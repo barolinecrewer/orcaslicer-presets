@@ -1,0 +1,11 @@
+{
+    "type": "process",
+    "name": "0.16mm Quality Mechanical @P1S",
+    "inherits": "0.16mm Quality @P1S",
+    "from": "User",
+    "version": "2.4.2.0",
+    "print_settings_id": "0.16mm Quality Mechanical @P1S",
+    "sparse_infill_density": "30",
+    "sparse_infill_pattern": "gyroid",
+    "wall_loops": "4"
+}
